@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Krzysztof Dolega, MSc</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Welcome on Krzysztof Dolega, MSc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Feb 2019 13:10:07 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://example.com/hello/</link>
+      <pubDate>Wed, 20 Feb 2019 13:10:07 +0100</pubDate>
+      
+      <guid>https://example.com/hello/</guid>
+      <description>Hello World</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Krzysztof Dolega Ruhr-Universität Bochum, Institute fur Philosophie II Universitätsstr. 150 Bochum Germany 44801 krzysztof[dot]dolega[at]rub[dot]de
+Publications Edited Volumes  Smortchkova, J., Dolega, K. , &amp;amp; Schlicht, T. (forthcoming). Mental Representations: The Foundation of Cognitive Science. OUP: New York. Dolega, K., Roelofs, L. &amp;amp; Schlicht, T. (2018). Special Issue: Enactivism vs. Representationalism. Philosophical Explorations, 21(2).  Journal Articles  Dolega, K. &amp;amp; Dewhurst, J. (forthcoming). Bayesian Frugality and the Representation of Attention.</description>
+    </item>
+    
+  </channel>
+</rss>
