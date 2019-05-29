@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Krzysztof Dolega, MSc</title>
+    <title>Who am I? on Krzysztof Dolega, MSc</title>
     <link>https://qualiaq.github.io/</link>
-    <description>Recent content in Welcome on Krzysztof Dolega, MSc</description>
+    <description>Recent content in Who am I? on Krzysztof Dolega, MSc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Feb 2019 13:10:07 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2019 13:10:07 +0100</lastBuildDate>
     
 	<atom:link href="https://qualiaq.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why have a personal website?</title>
+      <link>https://qualiaq.github.io/personal/</link>
+      <pubDate>Sat, 20 Apr 2019 13:10:07 +0100</pubDate>
+      
+      <guid>https://qualiaq.github.io/personal/</guid>
+      <description>Hello World</description>
+    </item>
     
     <item>
       <title>Hello</title>
