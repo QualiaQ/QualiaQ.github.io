@@ -3,31 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://qualiaq.github.io/post/</loc>
-    <lastmod>2019-04-20T13:10:07+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://qualiaq.github.io/</loc>
-    <lastmod>2019-04-20T13:10:07+01:00</lastmod>
+    <lastmod>2019-07-11T12:04:07+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://qualiaq.github.io/personal/</loc>
-    <lastmod>2019-04-20T13:10:07+01:00</lastmod>
+    <loc>https://qualiaq.github.io/post/</loc>
+    <lastmod>2019-05-29T13:31:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://qualiaq.github.io/hello/</loc>
-    <lastmod>2019-02-20T13:10:07+01:00</lastmod>
+    <loc>https://qualiaq.github.io/post/personal/</loc>
+    <lastmod>2019-05-29T13:31:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://qualiaq.github.io/about/</loc>
+    <loc>https://qualiaq.github.io/post/hello/</loc>
+    <lastmod>2019-02-28T18:40:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qualiaq.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qualiaq.github.io/cv/</loc>
   </url>
   
   <url>
     <loc>https://qualiaq.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qualiaq.github.io/about/</loc>
+    <lastmod>2019-07-11T12:04:07+02:00</lastmod>
   </url>
   
 </urlset>

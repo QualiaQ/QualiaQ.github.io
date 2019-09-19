@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Krzysztof Dolega, MSc</title>
+    <title>Posts on Krzysztof Dolega</title>
     <link>https://qualiaq.github.io/post/</link>
-    <description>Recent content in Posts on Krzysztof Dolega, MSc</description>
+    <description>Recent content in Posts on Krzysztof Dolega</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 20 Apr 2019 13:10:07 +0100</lastBuildDate>
     
 	<atom:link href="https://qualiaq.github.io/post/index.xml" rel="self" type="application/rss+xml" />
@@ -13,19 +14,19 @@
     
     <item>
       <title>Why have a personal website?</title>
-      <link>https://qualiaq.github.io/personal/</link>
+      <link>https://qualiaq.github.io/post/personal/</link>
       <pubDate>Sat, 20 Apr 2019 13:10:07 +0100</pubDate>
       
-      <guid>https://qualiaq.github.io/personal/</guid>
+      <guid>https://qualiaq.github.io/post/personal/</guid>
       <description>Hello World</description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>https://qualiaq.github.io/hello/</link>
+      <link>https://qualiaq.github.io/post/hello/</link>
       <pubDate>Wed, 20 Feb 2019 13:10:07 +0100</pubDate>
       
-      <guid>https://qualiaq.github.io/hello/</guid>
+      <guid>https://qualiaq.github.io/post/hello/</guid>
       <description>Hello World</description>
     </item>
     
