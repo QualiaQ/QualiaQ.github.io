@@ -1,32 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://qualiaq.github.io/</loc>
-    <lastmod>2019-09-24T14:14:26+02:00</lastmod>
+    <loc>QualiaQ.github.io/</loc>
+    <lastmod>2019-04-20T13:10:07+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://qualiaq.github.io/post/</loc>
-    <lastmod>2019-09-24T14:14:26+02:00</lastmod>
+    <loc>QualiaQ.github.io/posts/</loc>
+    <lastmod>2019-04-20T13:10:07+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://qualiaq.github.io/post/about/</loc>
-    <lastmod>2019-09-24T14:14:26+02:00</lastmod>
+    <loc>QualiaQ.github.io/posts/personal/</loc>
+    <lastmod>2019-04-20T13:10:07+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://qualiaq.github.io/categories/</loc>
+    <loc>QualiaQ.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://qualiaq.github.io/cv/</loc>
+    <loc>QualiaQ.github.io/cv/</loc>
   </url>
   
   <url>
-    <loc>https://qualiaq.github.io/tags/</loc>
+    <loc>QualiaQ.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>QualiaQ.github.io/about/</loc>
   </url>
   
 </urlset>
