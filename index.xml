@@ -13,20 +13,11 @@
     
     <item>
       <title>Why have a personal website?</title>
-      <link>https://qualiaq.github.io/post/personal/</link>
+      <link>https://qualiaq.github.io/blog/personal/</link>
       <pubDate>Sat, 20 Apr 2019 13:10:07 +0100</pubDate>
       
-      <guid>https://qualiaq.github.io/post/personal/</guid>
-      <description>Hello World</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>https://qualiaq.github.io/post/hello/</link>
-      <pubDate>Wed, 20 Feb 2019 13:10:07 +0100</pubDate>
-      
-      <guid>https://qualiaq.github.io/post/hello/</guid>
-      <description>Hello World</description>
+      <guid>https://qualiaq.github.io/blog/personal/</guid>
+      <description>This is a test entry, but there more is to come here.</description>
     </item>
     
     <item>
